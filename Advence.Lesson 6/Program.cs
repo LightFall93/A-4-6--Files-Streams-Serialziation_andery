@@ -30,8 +30,8 @@ namespace Advence.Lesson_6
             //Practice.AL6_P4_7_CopyFile();
             //Practice.AL6_P5_7_FileChat();
             //Lesson.SericalizationExample();
-            Practice.AL6_P6_7_ConsoleSrlzn();
-            //Practice.AL6_P7_7_FileSrlz();
+            //Practice.AL6_P6_7_ConsoleSrlzn();
+            Practice.AL6_P7_7_FileSrlz();
             Console.ReadLine();
         }         
     }
